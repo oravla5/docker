@@ -1,7 +1,11 @@
 # Docker installation
 ## Ubuntu
+### References
+#### Official
 - [Install Docker Engine on Ubuntu](https://docs.docker.com/engine/install/ubuntu/)
 - [Post-installation steps for Linux](https://docs.docker.com/engine/install/linux-postinstall/)
+#### Others
+- [Running Docker Containers as Current Host User](https://jtreminio.com/blog/running-docker-containers-as-current-host-user/)
 
 ### Remove all previous docker installation
 ```
